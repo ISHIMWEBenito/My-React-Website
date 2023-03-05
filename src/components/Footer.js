@@ -104,7 +104,7 @@ function Footer() {
             </Link>
             <Link
               className='social-icon-link twitter'
-              to='/'
+              to='www.linkedin.com/in/benito-ishimwe'
               target='_blank'
               aria-label='LinkedIn'
             >
