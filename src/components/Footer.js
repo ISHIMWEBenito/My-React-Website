@@ -68,7 +68,7 @@ function Footer() {
               <i className='fa-solid fa-guitar'></i>
             </Link>
           </div>
-          <small className='website-rights'>BMSL © 2022</small>
+          <small className='website-rights'>BMSL © 2023</small>
           <div className='social-icons'>
             <Link
               className='social-icon-link facebook'
